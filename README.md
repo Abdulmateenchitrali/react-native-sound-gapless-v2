@@ -6,7 +6,7 @@ npm install https://github.com/abdulmateentechbits/react-native-sound-gapless-v3
 react-native link react-native-sound
 ```
 
-It will install as `react-native-sound`, not `react-native-sound-gapless`, so you can drop it straight in to your
+It will install as `react-native-sound`, not `react-native-sound-gapless-v3`, so you can drop it straight in to your
 existing projects.
 
 > The implementation is not particularly tidy, so PRs are welcome to make it better!
