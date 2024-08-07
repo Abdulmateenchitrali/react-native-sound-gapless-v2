@@ -2,7 +2,7 @@ This is a fork of `react-native-sound` to add gapless playback on Android. Gaple
 It is a drop-in replacement for `react-native-sound`, with the same interface. To install this fork, run:
 
 ```javascript
-npm install [https://github.com/Menardi/react-native-sound-gapless.git](https://github.com/abdulmateentechbits/react-native-sound-gapless-v3.git) --save
+npm install https://github.com/abdulmateentechbits/react-native-sound-gapless-v3.git --save
 react-native link react-native-sound
 ```
 
